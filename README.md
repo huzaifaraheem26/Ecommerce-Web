@@ -9,7 +9,7 @@ This project showcases a complete frontend shopping experience with a premium UI
 
  **View Website:** https://lighthearted-platypus-e41fbe.netlify.app/
  
- **GitHub Repo:** https://github.com/your-username/stryde-store  
+ **GitHub Repo:** https://github.com/huzaifaraheem26/Ecommerce-Web.git  
 
 ---
 
